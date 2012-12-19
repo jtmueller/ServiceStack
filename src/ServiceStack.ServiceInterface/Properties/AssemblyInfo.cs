@@ -41,4 +41,4 @@ using System.Runtime.Serialization;
     ClrNamespace = "ServiceStack.ServiceInterface")]
 [assembly: ContractNamespace("http://schemas.servicestack.net/types",
     ClrNamespace = "ServiceStack.ServiceInterface.Auth")]
-[assembly: InternalsVisibleTo("ServiceStack.WebHost.Endpoints.Tests")]
+//[assembly: InternalsVisibleTo("ServiceStack.WebHost.Endpoints.Tests")]
